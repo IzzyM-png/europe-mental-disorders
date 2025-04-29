@@ -1,0 +1,181 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Schizophrenia,Number,2017,75338.1531996812,101277.10183851297,52208.84175393307
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Schizophrenia,Number,2017,70253.63095911843,95149.48606489826,48980.25431995455
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Depressive disorders,Number,2021,149325.8133119235,205535.08172658208,99389.87710346603
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Depressive disorders,Number,2021,238521.14915021902,327886.2163024166,159122.76890550007
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Bipolar disorder,Number,2021,43283.553561381814,63081.44790926101,26889.61233529599
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Bipolar disorder,Number,2021,45969.03453288568,67061.14422269614,27983.895585335522
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Anxiety disorders,Number,2021,124038.34738559266,177637.68735328905,79007.14081685786
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Anxiety disorders,Number,2021,217419.1152039134,313361.4230906227,144017.1372788092
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Eating disorders,Number,2021,12524.988961763824,19798.34186567783,7198.738605539153
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Eating disorders,Number,2021,21718.538505984936,33966.20597622821,13216.962310767307
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Other mental disorders,Number,2021,54560.85707319834,82225.59547691332,34931.200935449364
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Other mental disorders,Number,2021,35745.53199506721,53770.3528920765,22968.756226510683
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Bipolar disorder,Number,2018,207776.04540368763,300477.78336360585,132156.52708966477
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Bipolar disorder,Number,2018,289392.3346490903,418309.9439738797,184141.74852892142
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Anxiety disorders,Number,2018,543241.3956078828,774890.423680048,350164.6142491172
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Anxiety disorders,Number,2018,1020803.657577151,1414914.0509013485,670752.1616464444
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Eating disorders,Number,2018,80646.4200155285,126493.05349298989,48887.85430571236
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Eating disorders,Number,2018,229605.46772384993,350842.6243867812,140253.23804914096
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Other mental disorders,Number,2018,219058.19899798022,323546.96947048727,139713.86955335308
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Other mental disorders,Number,2018,138599.65636185292,207829.92278852186,89451.14889999102
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Depressive disorders,Number,2020,141334.16302400085,192991.5589748355,94302.42099025045
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Depressive disorders,Number,2020,223248.77637146573,308466.5562765391,147437.63347788816
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Bipolar disorder,Number,2020,43644.48216196487,63539.3267319946,27039.714013595833
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Bipolar disorder,Number,2020,46462.59196757993,67411.47821048163,28189.21808884276
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Anxiety disorders,Number,2020,114311.68421838692,163984.18024692434,72991.53448606069
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Anxiety disorders,Number,2020,199468.39452579975,288173.4371708736,131564.8911338596
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Eating disorders,Number,2020,12703.979886874182,19923.563507214363,7323.6081489454955
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Eating disorders,Number,2020,22233.629956187997,34720.703301101836,13496.068843735422
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Other mental disorders,Number,2021,90016.15538469725,138005.0654690707,57489.58410821493
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Other mental disorders,Number,2021,63894.09158817096,96876.39637860906,41326.60913192873
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Schizophrenia,Number,2018,119045.81610507061,155479.1223883367,86117.52004945217
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Schizophrenia,Number,2018,122685.71967341218,160134.27656407285,88660.56090056636
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Depressive disorders,Number,2018,354205.2486235163,492727.9035044828,239086.7521835591
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Depressive disorders,Number,2018,483601.52713793656,672306.5855530251,328235.7102346518
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Bipolar disorder,Number,2018,73953.21223772995,107759.39171668666,46434.20980322029
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Bipolar disorder,Number,2018,81171.43819737573,119000.17107935704,51866.38176922638
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Anxiety disorders,Number,2018,190222.11168527385,263351.18325409817,129191.62926641968
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Anxiety disorders,Number,2018,302504.4664400537,418711.02975573007,204650.98264678143
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Bipolar disorder,Number,2017,208462.93823358047,307131.8658444865,130947.85306789356
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Bipolar disorder,Number,2017,290628.65034916723,421355.4221933568,184858.8740781304
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Anxiety disorders,Number,2017,544612.4760000174,776074.3176033986,352008.54945405165
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Anxiety disorders,Number,2017,1036610.1345889521,1442575.1386018288,686196.7888609644
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Eating disorders,Number,2017,80615.79461498992,126118.48954535762,49102.53816207443
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Eating disorders,Number,2017,229577.97548076414,351308.1774066515,139193.6795004502
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Depressive disorders,Number,2019,125002.00005505742,170952.87982800178,84026.86639292745
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Depressive disorders,Number,2019,192655.99176346578,267781.9292389131,129835.06844876464
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Bipolar disorder,Number,2019,43986.04752741056,64083.99316755889,27070.35233934447
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Bipolar disorder,Number,2019,46921.188973494405,67859.99109445933,28936.173123571985
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Anxiety disorders,Number,2019,97973.57278590294,139134.23792247695,63287.458697422335
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Anxiety disorders,Number,2019,169482.31716965354,239971.87641396807,112649.50614118931
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Eating disorders,Number,2019,12996.985540541462,20689.59073453056,7400.432477476907
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Eating disorders,Number,2019,22737.546271531988,35677.6147320591,13885.669001720627
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Other mental disorders,Number,2017,220050.23637721958,324672.8729810732,141626.4147483901
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Other mental disorders,Number,2017,139160.3257725068,207409.01631749637,89532.85700835983
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Other mental disorders,Number,2020,54928.432660450024,82435.67763055935,35074.19531679437
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Other mental disorders,Number,2020,36056.57140964363,54982.30632383661,23357.48010522355
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Other mental disorders,Number,2019,55230.24657630384,82956.17684766717,35367.31080661756
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Other mental disorders,Number,2019,36260.79908327954,54780.868333312734,23324.494510004348
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Schizophrenia,Number,2017,120453.63998869012,157671.58920479385,86889.89186784063
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Schizophrenia,Number,2017,123992.45028813832,163068.374893652,90077.92223001264
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Depressive disorders,Number,2017,358917.87516053027,499497.6189423964,242626.1223242001
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Depressive disorders,Number,2017,491746.25543238054,683536.6206062066,334161.6954270537
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Bipolar disorder,Number,2017,74881.02778512776,108749.84366459581,47501.00363741728
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Bipolar disorder,Number,2017,82335.27459424037,120237.49114367833,52416.49453565259
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Anxiety disorders,Number,2017,193262.18515009776,268760.07446796336,131580.4908661557
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Anxiety disorders,Number,2017,306733.90531837556,426232.7923792582,209437.59571753442
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Schizophrenia,Number,2019,303637.44273073855,399167.6453218749,221687.12983667347
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Schizophrenia,Number,2019,264010.24221283523,346608.6882441464,187533.4878246683
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Depressive disorders,Number,2019,754915.0970072797,1047804.0851664586,512147.0173704566
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Depressive disorders,Number,2019,1255897.1276575292,1730094.2492464944,849486.6398049612
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Eating disorders,Number,2018,23763.557438216718,37746.7163844883,13848.88062842644
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Eating disorders,Number,2018,41367.609522947125,64945.52220474161,24869.75468834021
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Eating disorders,Number,2017,24319.132271635804,38367.94474064623,14268.836849844683
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Eating disorders,Number,2017,42211.251653351224,66482.69263591908,25749.110031029275
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Schizophrenia,Number,2018,306520.4203761309,401717.58740087267,223450.43935166922
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Schizophrenia,Number,2018,267189.25702298497,350566.1766125523,190327.67544914532
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Depressive disorders,Number,2018,758981.6519279807,1047505.0532095344,518878.8823787409
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Depressive disorders,Number,2018,1266695.2827048695,1739309.9023217438,863291.5224498318
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Other mental disorders,Number,2020,90680.70792637068,139236.85066051144,57639.46631478009
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Other mental disorders,Number,2020,64501.06645684547,97451.85920896726,41571.5050097154
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Schizophrenia,Number,2020,74177.43292734286,99889.41576045458,51480.11201053465
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Schizophrenia,Number,2020,69127.60234460562,94270.72448396731,48915.29883296336
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Schizophrenia,Number,2020,302078.36832155375,392063.99783190637,221729.02428328156
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Schizophrenia,Number,2020,262106.33834266337,342101.8912764293,187630.97622539208
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Depressive disorders,Number,2020,890327.3668725232,1249657.7968560928,619804.6883672192
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Depressive disorders,Number,2020,1501030.410642177,2104913.73065567,1036741.2682135509
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Schizophrenia,Number,2017,310526.7202970417,403914.0809855997,225515.95446118398
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Schizophrenia,Number,2017,271186.38288553205,355913.3751183447,192815.94468842118
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Depressive disorders,Number,2017,762032.8006752704,1055672.49122572,523215.1903371174
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Depressive disorders,Number,2017,1272337.7485873813,1754032.1736397073,868378.7802757334
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Depressive disorders,Number,2018,124900.26758711845,169855.2287564593,84199.2224205675
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Depressive disorders,Number,2018,192605.1037901356,268109.84676298697,129994.6396508909
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Bipolar disorder,Number,2018,44287.37610981134,64332.28347461403,27130.95720124065
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Bipolar disorder,Number,2018,47308.64767661468,68842.32601854208,28987.275855993805
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Anxiety disorders,Number,2018,98886.48616988337,140412.9864447526,63802.9332531386
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Anxiety disorders,Number,2018,170868.49308684,242148.1317320933,112527.89467762485
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Eating disorders,Number,2018,13185.150333124682,21093.507095828012,7533.068655542953
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Eating disorders,Number,2018,22968.349131602088,35735.993143298125,13848.48128960055
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Other mental disorders,Number,2018,55466.83443813182,83347.30688709041,35306.39939309841
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Other mental disorders,Number,2018,36422.81395906061,55053.14907077157,23472.21434828578
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Schizophrenia,Number,2018,75123.08686115699,101234.30650245643,52270.59931602564
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Schizophrenia,Number,2018,69666.67744683097,94012.1617967624,48927.242453902494
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Schizophrenia,Number,2020,117560.1681742502,153668.43096079183,85828.80844246616
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Schizophrenia,Number,2020,120207.72687514032,157072.0587189081,86840.67090587592
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Depressive disorders,Number,2020,392256.2729604303,547599.6552872628,263798.52673595975
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Depressive disorders,Number,2020,542454.6720687835,754765.8368541962,369069.7002649283
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Bipolar disorder,Number,2020,72243.24241061282,105612.93538833462,46344.619851987605
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Bipolar disorder,Number,2020,78822.36778375809,115378.36600300012,50743.98349065885
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Anxiety disorders,Number,2020,214725.87499099527,303908.64417536615,143040.37182900275
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Anxiety disorders,Number,2020,343734.4034073689,479851.7008676565,227444.83774896164
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Bipolar disorder,Number,2021,203710.19809914764,298932.1415520153,128549.71187515947
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Bipolar disorder,Number,2021,282568.4529331967,407036.12400184147,178817.06629625062
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Anxiety disorders,Number,2021,640252.4670117433,902815.800622775,417618.205733263
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Anxiety disorders,Number,2021,1197375.7637086792,1677556.8412238383,789177.3668049386
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Eating disorders,Number,2021,79476.4171102593,123481.71207057744,48126.83310268354
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Eating disorders,Number,2021,223666.31337921435,343177.08181922906,134240.94226095604
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Schizophrenia,Number,2021,299728.9257076054,394808.17924880516,218912.14292912255
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Schizophrenia,Number,2021,260335.43360446198,337824.24394328275,187202.9870582168
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Depressive disorders,Number,2021,886921.6520917779,1242228.728261084,614708.1328485457
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Depressive disorders,Number,2021,1492763.6369495757,2080082.6646134635,1030457.4096922693
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Schizophrenia,Number,2019,74694.58743345308,101419.72344759628,52268.64194969804
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Schizophrenia,Number,2019,69149.98711131731,93417.49212198921,48414.267112340174
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Eating disorders,Number,2020,22619.93206250608,35637.18138037398,13041.22888741962
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Eating disorders,Number,2020,39338.77797184076,62240.011437042805,23785.25497720924
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Schizophrenia,Number,2019,117841.64265694137,153486.8718848461,84563.68784905862
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Schizophrenia,Number,2019,121416.22154030939,157702.3155522007,87703.49978520136
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Depressive disorders,Number,2019,349896.0459663822,485344.09588719916,237043.12717526662
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Depressive disorders,Number,2019,476370.1649002448,663440.887346298,321271.8794159114
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Bipolar disorder,Number,2019,73092.57176607783,106515.783351133,46458.29155461449
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Bipolar disorder,Number,2019,80116.6594268101,118367.9140054251,51147.63904459194
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Anxiety disorders,Number,2019,187657.06820966606,261465.86433819417,127183.52303525603
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Anxiety disorders,Number,2019,298280.00848521164,413727.59348281287,202159.23295155904
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Other mental disorders,Number,2021,214595.03587390415,318560.64895750396,137051.21003405505
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Other mental disorders,Number,2021,135291.88309817124,200986.43955110773,86602.32074438219
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Schizophrenia,Number,2021,73755.88670456196,99311.91523549338,51631.80394820511
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Schizophrenia,Number,2021,68237.56613276326,92350.18129591044,47411.47871030509
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Eating disorders,Number,2019,23241.17506208056,36965.782595485405,13627.145294111044
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Eating disorders,Number,2019,40430.761231339,62852.96431553937,24203.215597325685
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Bipolar disorder,Number,2019,206591.39256805775,301111.07508288603,131800.14421758812
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Bipolar disorder,Number,2019,287674.3679663141,414475.7078060827,182549.1408155732
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Anxiety disorders,Number,2019,540433.0271298826,767296.4668167438,348074.2431433407
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Anxiety disorders,Number,2019,1009795.0267516355,1404282.0704478454,662497.8361947117
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Eating disorders,Number,2019,80448.79864779203,125683.06989379536,48460.496499632376
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Eating disorders,Number,2019,228869.79958597984,351815.96449058317,139176.46580888255
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Other mental disorders,Number,2019,91195.7187762377,140200.90282625926,58655.03493023403
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Other mental disorders,Number,2019,64982.17021424361,99762.7421176692,42051.882818424725
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Other mental disorders,Number,2019,217785.06451442788,320190.4404943434,139439.76546136473
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Other mental disorders,Number,2019,137707.71156871278,204046.56180900265,88773.27700673664
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Depressive disorders,Number,2017,123771.53910469588,168203.10067152348,83595.11174278049
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Depressive disorders,Number,2017,191610.2981793444,265055.80955307087,129451.72865263038
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Bipolar disorder,Number,2017,44588.6459763039,64726.41022023464,27197.482557134354
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Bipolar disorder,Number,2017,47692.23785318473,69191.48043315015,29065.626507941237
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Anxiety disorders,Number,2017,99809.2642481459,141522.9125674579,64637.96341609343
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Anxiety disorders,Number,2017,172244.13796919183,243917.8435051106,113837.1117593428
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Eating disorders,Number,2017,13293.56819371869,20998.14366354725,7636.54468761918
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Eating disorders,Number,2017,23123.528882908675,35878.59410400578,14043.044584342053
+DALYs (Disability-Adjusted Life Years),Central Europe,Male,20-54 years,Other mental disorders,Number,2017,55583.12738407434,84012.51621776263,35867.81770903736
+DALYs (Disability-Adjusted Life Years),Central Europe,Female,20-54 years,Other mental disorders,Number,2017,36571.47051583053,55065.64572559271,23239.65176096546
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Bipolar disorder,Number,2020,204967.93997741686,298820.48376454145,128563.26488611056
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Bipolar disorder,Number,2020,284906.1185519306,410905.5981382673,181183.7071843025
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Anxiety disorders,Number,2020,637548.3811429845,901910.9040719401,417610.6848775391
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Anxiety disorders,Number,2020,1194630.142238559,1675147.5222843774,790532.161412566
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Eating disorders,Number,2020,80222.88509724922,124998.59660640269,48507.5706954276
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Eating disorders,Number,2020,226137.86042378537,346901.59562977555,137166.8133513018
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Other mental disorders,Number,2018,91695.53886700797,141412.80368160683,58351.47189640077
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Other mental disorders,Number,2018,65503.104755679444,99252.29501665419,42253.51691079156
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Schizophrenia,Number,2021,115549.07067435155,151257.51059035625,83327.70360437801
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Schizophrenia,Number,2021,118801.69072591742,155413.75411039853,85984.13048597524
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Depressive disorders,Number,2021,433600.3677598166,604698.0435465028,293543.23023067194
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Depressive disorders,Number,2021,599758.1407116917,832309.2152910563,404720.25163194817
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Bipolar disorder,Number,2021,71348.70775133229,103993.95192890127,45877.744101808305
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Bipolar disorder,Number,2021,77741.94493191582,112973.17416566663,49735.68021154251
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Anxiety disorders,Number,2021,239246.52096075637,336985.7781669734,160684.9853974814
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Anxiety disorders,Number,2021,385539.3901741486,544061.4370392647,260675.27766432095
+DALYs (Disability-Adjusted Life Years),Western Europe,Male,20-54 years,Other mental disorders,Number,2020,216153.35074974166,320098.8874191374,138385.87902234364
+DALYs (Disability-Adjusted Life Years),Western Europe,Female,20-54 years,Other mental disorders,Number,2020,136499.27537942494,202385.46540251924,87566.34123168924
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Eating disorders,Number,2021,22027.393768311857,34449.78454967089,12646.655541392687
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Eating disorders,Number,2021,37652.79544538786,58800.31106571229,22744.225928989697
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Male,20-54 years,Other mental disorders,Number,2017,92352.64117329933,142569.55575900595,59090.83906454471
+DALYs (Disability-Adjusted Life Years),Eastern Europe,Female,20-54 years,Other mental disorders,Number,2017,66113.79158736755,100953.9164060523,42598.60072172147
